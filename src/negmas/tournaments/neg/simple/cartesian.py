@@ -52,6 +52,10 @@ __all__ = [
     "cartesian_tournament",
     "SimpleTournamentResults",
     "combine_tournaments",
+    "oneinint",
+    "oneinfloat",
+    "make_scores",
+    "failed_run_record",
 ]
 MAX_TASKS_PER_CHILD = 10
 LOG_UNIFORM_LIMIT = 10
